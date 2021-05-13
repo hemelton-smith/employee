@@ -1,0 +1,12 @@
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\bin\Debug\netcoreapp3.1\Employee.Integration.Sql.deps.json
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\bin\Debug\netcoreapp3.1\Employee.Integration.Sql.dll
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\bin\Debug\netcoreapp3.1\Employee.Integration.Sql.pdb
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\bin\Debug\netcoreapp3.1\Employee.Domain.dll
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\bin\Debug\netcoreapp3.1\Employee.Domain.pdb
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\obj\Debug\netcoreapp3.1\Employee.Integration.Sql.csprojAssemblyReference.cache
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\obj\Debug\netcoreapp3.1\Employee.Integration.Sql.AssemblyInfoInputs.cache
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\obj\Debug\netcoreapp3.1\Employee.Integration.Sql.AssemblyInfo.cs
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\obj\Debug\netcoreapp3.1\Employee.Integration.Sql.csproj.CoreCompileInputs.cache
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\obj\Debug\netcoreapp3.1\Employee.Integration.Sql.csproj.CopyComplete
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\obj\Debug\netcoreapp3.1\Employee.Integration.Sql.dll
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Integration.Sql\obj\Debug\netcoreapp3.1\Employee.Integration.Sql.pdb

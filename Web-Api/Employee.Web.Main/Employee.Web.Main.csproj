@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Employee.Integration.Sql\Employee.Integration.Sql.csproj" />
+    <ProjectReference Include="..\Employee.Web.Api\Employee.Web.Api.csproj" />
+  </ItemGroup>
+
+
+</Project>

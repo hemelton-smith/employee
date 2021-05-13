@@ -1,0 +1,12 @@
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\bin\Debug\netcoreapp3.1\Employee.Web.Api.deps.json
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\bin\Debug\netcoreapp3.1\Employee.Web.Api.dll
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\bin\Debug\netcoreapp3.1\Employee.Web.Api.pdb
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\bin\Debug\netcoreapp3.1\Employee.Domain.dll
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\bin\Debug\netcoreapp3.1\Employee.Domain.pdb
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\obj\Debug\netcoreapp3.1\Employee.Web.Api.csprojAssemblyReference.cache
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\obj\Debug\netcoreapp3.1\Employee.Web.Api.AssemblyInfoInputs.cache
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\obj\Debug\netcoreapp3.1\Employee.Web.Api.AssemblyInfo.cs
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\obj\Debug\netcoreapp3.1\Employee.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\obj\Debug\netcoreapp3.1\Employee.Web.Api.csproj.CopyComplete
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\obj\Debug\netcoreapp3.1\Employee.Web.Api.dll
+C:\Users\schonc219\source\repos\My projects\Employee\Employee.Web.Api\obj\Debug\netcoreapp3.1\Employee.Web.Api.pdb
